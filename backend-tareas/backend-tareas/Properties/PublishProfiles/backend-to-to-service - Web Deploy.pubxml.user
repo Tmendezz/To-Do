@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxwPmIS+nH0ut73DN1vc8BQAAAAACAAAAAAAQZgAAAAEAACAAAABgWvSNgO3BwbMaYi26V28q87zyvREZi5bAAMdiXFyC6gAAAAAOgAAAAAIAACAAAAAzBhXLIPlD2vBFqAg25O3lVxaqXbwJkJh334zMRQK+WYAAAAA60CrfLXVT5+wY12tDWUFuKUvDi2eruGs8R0ZPaxnZkPW8Nq5YNbKv3gj6J08f5T+UMgBaqqVGs6IdouIVQvQqTDzV7zskTGOaOC1HQk2imQSWJx6T0W3sGx/7ComCj2/a7sXg+3/Cr2Y66rLqTlH1O83iH3VUOqRjEGLZMqcXukAAAAA043vCBAAe+9OiCvPqcIdMMEAxRC1RwWIS5Y0x6qQSQxwDMgdXojQ9UzxeuSf5TxhTRriNQ6BqM5Ceaqe1gxSZ</EncryptedPassword>
+    <History>True|2025-06-24T01:43:45.3778729Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=backend-to-dodbserver.database.windows.net,1433%3bInitial Catalog=backend-to-do_db%3bUser ID=tmendez%3bPassword=T43425683m%40.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="backend_tareas.Context.ApplicationDbContext">
+      <Value>Data Source=backend-to-dodbserver.database.windows.net,1433%3bInitial Catalog=backend-to-do_db%3bUser ID=tmendez%3bPassword=T43425683m%40.</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

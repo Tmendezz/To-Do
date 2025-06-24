@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0QGZaP0GWi13b2kuWo8db5eY9oced0HzM4LqIDCwlgU=",
+  "Source": "backend-tareas",
+  "BasePath": "_content/backend-tareas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

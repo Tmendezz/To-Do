@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Tizi\Desktop\Vue\backend-tareas\backend-tareas\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Tizi\Desktop\Vue\backend-tareas\backend-tareas\obj\Release\net8.0\PubTmp\EFSQLScripts\backend_tareas.Context.ApplicationDbContext.sql" />
+</sitemanifest>
